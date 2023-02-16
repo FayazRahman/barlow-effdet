@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: barlow-effdet
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Fayaz
+    family-names: Rahman
+    email: fayazrahman4u@gmail.com
+  - given-names: Dev Narayan
+    family-names: Chakkalakkal Binu
+    email: devcb@pg.cusat.ac.in
